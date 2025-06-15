@@ -1,0 +1,3 @@
+BTW, qwen didn't do it right the first time! Qwen used the yank example verbatim
+
+Whereas Qwen needed to look at neighboring code to find the way to get the parameter
